@@ -18,7 +18,7 @@
 <img alt="ignit" src="images/test.JPG" />
 
 ## Demonstração
-<img alt="ignit" src="images/desafio_01_gif.gif" />
+<img alt="ignite_gif" src="images/desafio_01.gif" />
 
    
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
