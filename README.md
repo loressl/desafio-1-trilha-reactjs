@@ -3,8 +3,7 @@
 
 ## :bookmark_tabs: Desafio
 
-    Utilizar o template disponibilizado e editar o arquivo src/components/TaskList.tsx, adicionando as funcionalidades 
-    que permita o gerenciamento das tarefas. 
+ Utilizar o template disponibilizado e editar o arquivo [src/components/TaskList.tsx](https://github.com/loressl/desafio-1-trilha-reactjs/blob/main/src/components/TaskList.tsx), adicionando as funcionalidades que permita o gerenciamento das tarefas. 
     
  > Funcionalidades 
   - Adicionar uma nova tarefa
